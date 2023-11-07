@@ -19,8 +19,15 @@
 
 ![search4](/images/search4.png)
 
-
-
+## Chat Room
+![chat1](/images/chat1.png)
+1. They can also access the Chat Room which can be used to ask questions and interact with any live users of the website
+2. Users can login with their Username, or Facebook or Twitter profiles, or just talk as a Guest
+3. Responses would be provided by fellow users, financial advisors, or the website admin.
+<div style="display: flex;">
+   <img src="./images/chat2.png" style="width: 49%;" alt="Chat2">
+   <img src="./images/chat3.png" style="width: 49%;" alt="Chat3">
+</div>
 
 ## Login
 1. A pre-existing user would be able to access their account through Login, and a financial advisor that’s been approved would be able to register from the button below. I’ll create a sample user here.
