@@ -12,9 +12,8 @@
 1. The Search page offers a complete directory of all the financial advisors registered to the website.
 2. People can search for a financial planner by name through the Search bar or use the additional filters provided below that specify the Services Provided and the Licensed-in-state.
 <div style="display: flex;">
-   <img src="./images/search2.png" style="width: 49.5%;" alt="Search2">
-   <p>&nbsp</p>
-   <img src="./images/search3.png" style="width: 49.5%;" alt="Search3">
+   <img src="./images/search2.png" style="width: 49%;" alt="Search2">
+   <img src="./images/search3.png" style="width: 49%;" alt="Search3">
 </div> 
 <p></p> 
 
