@@ -47,6 +47,7 @@
 ![Profile](/images/profile1.png)
 1. After that’s entered, the user will land on this blank Profile page, to which they can add content by clicking the Settings gear icon and selecting “Edit Profile”.
 2. Here the user can add all their relevant and esteemed information, as well as if they were referred by another advisor, which serves to increase their reputability.
+
 ![Profile2](/images/profile2.png)
 3. The Introduction text box has also been provided as an example message for the financial advisors to advertise themselves to potential clients. They are free to edit the message as they want or write their own.
 4. Because this site is primarily geared toward fiduciaries (hence the name), a secret password is shown if the user selects “Fiduciaries” as one of their Services Provided.
@@ -73,6 +74,28 @@
    <img src="./images/account3.png" style="width: 49%;" alt="Account3">
    <img src="./images/account4.png" style="width: 49%;" alt="Account4">
 </div>
+
+## Discussion Room
+![Discussion1](/images/discussion1.png)
+1. Verified fiduciaries can navigate to the Discussion Room page from the NavBar and are met with this password protected page, wherein they can input their password and gain access to the Fiduciaries-only discussion room.
+2. Messages sent here will be visible to all registered fiduciaries on the website.
+<div style="display: flex;">
+   <img src="./images/discussion2.png" style="width: 49%;" alt="Discussion2">
+   <img src="./images/discussion3.png" style="width: 49%;" alt="Discussion3">
+</div>
+
+## New Homepage
+![NewHomepage](/images/newhomepage.png)
+1. Finally, logged-in users no longer see the original homepage, as the promotional page is irrelevant to them.
+2. Instead, when the user clicks on the FiduciaryChat button at the top left, they are seamlessly guided to the Search page, as that is what they will be using to find other financial advisors and communicate with them.
+
+## Logout
+![Logout1](/images/logout1.png)
+1. Once the financial advisor is finished using the website, they can choose to logout by hovering on the Profile dropdown in the top right corner and selecting “Logout”.
+2. This will redirect them back to the original homepage that everyone sees when they first open the FiduciaryChat website.
+
+![Logout2](/images/logout2.png)
+
 
 
 // check writing suggestions with Grammarly
