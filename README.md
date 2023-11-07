@@ -22,7 +22,7 @@
 ## Chat Room
 ![chat1](/images/chat1.png)
 1. They can also access the Chat Room which can be used to ask questions and interact with any live users of the website.
-2. Users can login with their Username, or Facebook or Twitter profiles, or just talk as a Guest.
+2. Users can log in with their Username, or Facebook or Twitter profiles, or just talk as a Guest.
 3. Responses would be provided by fellow users, financial advisors, or the website admin.
 <div style="display: flex;">
    <img src="./images/chat2.png" style="width: 49%;" alt="Chat2">
@@ -37,7 +37,7 @@
 ![Register](/images/register.png)
 1. The registration page contains the typical input fields – Username, First Name, Last Name, Email, Password (and Confirm Password).
 2. The Confirm Password field becomes red if the passwords don’t match.
-3. And ensures password complexity by checking that the entry contains at least 1 lowercase letter, 1 uppercase letter, and 1 number.
+3. Ensure password complexity by checking that the entry contains at least 1 lowercase letter, 1 uppercase letter, and 1 number.
 <div style="display: flex;">
    <img src="./images/register2.png" style="width: 49%;" alt="Register2">
    <img src="./images/register3.png" style="width: 49%;" alt="Register3">
@@ -51,7 +51,7 @@
 ![Profile2](/images/profile2.png)
 3. The Introduction text box has also been provided as an example message for the financial advisors to advertise themselves to potential clients. They are free to edit the message as they want or write their own.
 4. Because this site is primarily geared toward fiduciaries (hence the name), a secret password is shown if the user selects “Fiduciaries” as one of their Services Provided.
-   * This password grants them access to the “Discussion Room” section, which was added to the NavBar just after logging in.
+   * This password grants them access to the “Discussion Room” section, which was added to the NavBar after logging in.
    * Using this, they can communicate with other certified fiduciaries to ask questions and network.
 <div style="display: flex;">
    <img src="./images/profile3.png" style="width: 49%;" alt="Profile3">
@@ -59,7 +59,7 @@
 </div>
    
 5. Once the user has completed filling out their Profile, they can press the Update Profile button and view their entire About page.
-   * Naturally, the fiduciaries password is private, so it isn’t displayed on their public profile.
+   * Naturally, the fiduciaries' password is private, so it isn’t displayed on their public profile.
 
 ![Profile5](/images/profile5.png)
 
@@ -77,7 +77,7 @@
 
 ## Discussion Room
 ![Discussion1](/images/discussion1.png)
-1. Verified fiduciaries can navigate to the Discussion Room page from the NavBar and are met with this password protected page, wherein they can input their password and gain access to the Fiduciaries-only discussion room.
+1. Verified fiduciaries can navigate to the Discussion Room page from the NavBar and are met with this password-protected page, wherein they can input their password and gain access to the Fiduciaries-only discussion room.
 2. Messages sent here will be visible to all registered fiduciaries on the website.
 <div style="display: flex;">
    <img src="./images/discussion2.png" style="width: 49%;" alt="Discussion2">
@@ -91,7 +91,7 @@
 
 ## Logout
 ![Logout1](/images/logout1.png)
-1. Once the financial advisor is finished using the website, they can choose to logout by hovering on the Profile dropdown in the top right corner and selecting “Logout”.
+1. Once the financial advisor is finished using the website, they can choose to log out by hovering on the Profile dropdown in the top right corner and selecting “Logout”.
 2. This will redirect them back to the original homepage that everyone sees when they first open the FiduciaryChat website.
 
 ![Logout2](/images/logout2.png)
