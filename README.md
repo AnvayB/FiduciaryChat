@@ -42,7 +42,7 @@ If the website is still live when you read this, feel free to explore it firstha
 ![Register](/images/register.png)
 1. The registration page contains the typical input fields – Username, First Name, Last Name, Email, Password (and Confirm Password).
 2. The Confirm Password field becomes red if the passwords don’t match.
-3. Ensure password complexity by checking that the entry contains at least 1 lowercase letter, 1 uppercase letter, and 1 number.
+3. Also ensures password complexity by checking that the entry contains at least 1 lowercase letter, 1 uppercase letter, and 1 number.
 <div style="display: flex;">
    <img src="./images/register2.png" style="width: 49%;" alt="Register2">
    <img src="./images/register3.png" style="width: 49%;" alt="Register3">
@@ -51,10 +51,10 @@ If the website is still live when you read this, feel free to explore it firstha
 ## Profile
 ![Profile](/images/profile1.png)
 1. After that’s entered, the user will land on this blank Profile page, to which they can add content by clicking the Settings gear icon and selecting “Edit Profile”.
-2. Here the user can add all their relevant and esteemed information, as well as if they were referred by another advisor, which serves to increase their reputability.
+2. Here, the user can add all their relevant and esteemed information, as well as if they were referred by another advisor, which serves to increase their reputability.
 
 ![Profile2](/images/profile2.png)
-3. The Introduction text box has also been provided as an example message for the financial advisors to advertise themselves to potential clients. They are free to edit the message as they want or write their own.
+3. The Introduction text box has additionally been provided with an example message for the financial advisors to advertise themselves to potential clients. They are free to edit the message as they want or write their own.
 4. Because this site is primarily geared toward fiduciaries (hence the name), a secret password is shown if the user selects “Fiduciaries” as one of the Services Provided.
    * This password grants them access to the “Discussion Room” section, which was added to the NavBar after logging in.
    * Using this, they can communicate with other certified fiduciaries to ask questions and network.
