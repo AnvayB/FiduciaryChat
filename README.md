@@ -4,6 +4,8 @@ FiduciaryChat is a project I worked on as a freelance developer from May to Augu
 
 If the website is still live when you read this, feel free to explore it firsthand by clicking this link: [FiduciaryChat](https://testsite333dev.wpengine.com)
 
+[← Back to my GitHub](https://github.com/AnvayB/FiduciaryChat/)
+
 ## Homepage
 ![Homepage](/images/homepage.png)
 1. This is the homepage that potential users or people interested in finding a financial advisor would be able to see and interact with.
@@ -112,10 +114,8 @@ If the website is still live when you read this, feel free to explore it firstha
 * [WPForms Lite](https://wordpress.org/plugins/wpforms-lite/) v1.8.2.2
 
 
-### Languages Used
+### Languages/Tools Used
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 
-
-// check writing suggestions with Grammarly
