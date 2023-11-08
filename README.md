@@ -119,3 +119,5 @@ If the website is still live when you read this, feel free to explore it firstha
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 
+[Back to Top](https://anvayb.github.io/FiduciaryChat/#fiduciarychat
+)
