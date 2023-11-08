@@ -1,6 +1,7 @@
 # FiduciaryChat
 -- overview / description --
 
+
 ## Homepage
 ![Homepage](/images/homepage.png)
 1. This is the homepage that potential users or people interested in finding a financial advisor would be able to see and interact with.
@@ -96,6 +97,23 @@
 
 ![Logout2](/images/logout2.png)
 
+### Plugins Used
+* [Akismet Anti-Spam: Spam Protection](https://wordpress.org/plugins/akismet/) v5.1
+* [Different Home for Logged IN & Logged OUT](https://wordpress.org/plugins/different-home-for-logged-in-logged-out/) v1.3.0
+* [Easy Accordion](https://wordpress.org/plugins/easy-accordion-free/) v2.2.3 
+* [Elementor](https://wordpress.org/plugins/elementor/) v3.14.1
+* [Genesis Blocks Pro](https://wordpress.org/plugins/genesis-blocks/) v2.0.0
+* [Genesis Site Starter](https://wpengine.com/support/get-started-genesis-studiopress-theme/) v1.1.0
+* [RumbleTalk Chat](https://wordpress.org/plugins/rumbletalk-chat-a-chat-with-themes/) v6.1.7
+* [Simple Ajax Chat](https://wordpress.org/plugins/simple-ajax-chat/) v20230722
+* [Ultimate Member](https://wordpress.org/plugins/ultimate-member/) v2.6.11
+* [WPForms Lite](https://wordpress.org/plugins/wpforms-lite/) v1.8.2.2
+
+
+### Languages Used
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 
 
 // check writing suggestions with Grammarly
