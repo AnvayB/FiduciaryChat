@@ -1,5 +1,5 @@
 # FiduciaryChat
-FiduciaryChat is a project I worked on as a freelance developer from May to August 2023. The project's objective was to establish a centralized platform for the U.S. financial advisory industry, facilitating their engagement with potential clients and fostering connections among trust management professionals. Unfortunately, the project got discontinued due to resource constraints and shifting priorities. But I still wanted to showcase my work over the summer so I I created a comprehensive walkthrough that highlights every aspect of the website and demonstrates the user's journey through its interface.
+FiduciaryChat is a project I worked on as a freelance developer from May to August 2023. The project aimed to establish a centralized platform for the U.S. financial advisory industry, facilitating their engagement with potential clients and fostering connections among trust management professionals. Unfortunately, the project was discontinued due to resource constraints and shifting priorities. But I still wanted to showcase my work over the summer so I created a comprehensive walkthrough that highlights every aspect of the website and demonstrates the user's journey through its interface.
 
 
 If the website is still live when you read this, feel free to explore it firsthand by clicking this link: [FiduciaryChat](https://testsite333dev.wpengine.com)
@@ -8,12 +8,12 @@ If the website is still live when you read this, feel free to explore it firstha
 ![Homepage](/images/homepage.png)
 1. This is the homepage that potential users or people interested in finding a financial advisor would be able to see and interact with.
 2. As this is an invite-only website, interested financial advisors would have to submit their LinkedIn profile and email address to be considered for entry.
-3. Standard users would be able to immediately access the options available in the Navigation bar.
+3. Standard users would be able to access the options available in the Navigation bar immediately.
 
 ## Search
 ![search1](/images/search1.png)
 1. The Search page offers a complete directory of all the financial advisors registered to the website.
-2. People can search for a financial planner by name through the Search bar or use the additional filters provided below that specify the Services Provided and the Licensed-in-state.
+2. People can search for a financial planner by name through the Search bar or use the additional filters below that specify the Services Provided and the Licensed-in-state.
 <div style="display: flex;">
    <img src="./images/search2.png" style="width: 49%;" alt="Search2">
    <img src="./images/search3.png" style="width: 49%;" alt="Search3">
@@ -53,7 +53,7 @@ If the website is still live when you read this, feel free to explore it firstha
 
 ![Profile2](/images/profile2.png)
 3. The Introduction text box has also been provided as an example message for the financial advisors to advertise themselves to potential clients. They are free to edit the message as they want or write their own.
-4. Because this site is primarily geared toward fiduciaries (hence the name), a secret password is shown if the user selects “Fiduciaries” as one of their Services Provided.
+4. Because this site is primarily geared toward fiduciaries (hence the name), a secret password is shown if the user selects “Fiduciaries” as one of the Services Provided.
    * This password grants them access to the “Discussion Room” section, which was added to the NavBar after logging in.
    * Using this, they can communicate with other certified fiduciaries to ask questions and network.
 <div style="display: flex;">
@@ -113,7 +113,7 @@ If the website is still live when you read this, feel free to explore it firstha
 
 
 ### Languages Used
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 
