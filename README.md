@@ -14,6 +14,17 @@ If the website is still live when you read this, feel free to explore it firstha
 | [Chat Room](https://anvayb.github.io/FiduciaryChat/#chat-room)   | [Account Settings](https://anvayb.github.io/FiduciaryChat/#account-settings)        | [Logout](https://anvayb.github.io/FiduciaryChat/#logout)      |
 | [Login](https://anvayb.github.io/FiduciaryChat/#login)         |    Row 2, Column 2  | Row 2, Column 3  |
 
+| Main Screen | Registration | Additional Features |
+| ---------------- | ---------------- | ---------------- |
+| [Homepage](https://anvayb.github.io/FiduciaryChat/#homepage)      | [Register](https://anvayb.github.io/FiduciaryChat/#register) | [Discussion Room](https://anvayb.github.io/FiduciaryChat/#discussion-room)     |
+| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
+| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
+| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
+| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
+| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
+| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
+| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
+| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
 
 
 ## Homepage
