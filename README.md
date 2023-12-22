@@ -6,6 +6,15 @@ If the website is still live when you read this, feel free to explore it firstha
 
 [← Back to my GitHub](https://github.com/AnvayB/FiduciaryChat/)
 
+### Quick Access
+| Main Screen      | Registration | Additional Features     |
+| :---        |    :----:   |          ---: |
+| [Homepage](https://anvayb.github.io/FiduciaryChat/#homepage)      | [Register](https://anvayb.github.io/FiduciaryChat/#register) | [Discussion Room](https://anvayb.github.io/FiduciaryChat/#discussion-room)     |
+| [Search](https://anvayb.github.io/FiduciaryChat/#search)      | [Profile](https://anvayb.github.io/FiduciaryChat/#profile)       | [User Homepage](https://anvayb.github.io/FiduciaryChat/#new-homepage)   |
+| [Chat Room](https://anvayb.github.io/FiduciaryChat/#chat-room)   | [Account Settings](https://anvayb.github.io/FiduciaryChat/#account-settings)        | [Logout](https://anvayb.github.io/FiduciaryChat/#logout)      |
+| [Login](https://anvayb.github.io/FiduciaryChat/#login)
+
+
 ## Homepage
 ![Homepage](/images/homepage.png)
 1. This is the homepage that potential users or people interested in finding a financial advisor would be able to see and interact with.
@@ -68,8 +77,10 @@ If the website is still live when you read this, feel free to explore it firstha
 
 ![Profile5](/images/profile5.png)
 
-6. The user can adjust further account settings by clicking on the Settings gear icon and selecting “My Account”
-   * This allows them to edit this Account details, change their password, hide their profile from the directory (if needed), and delete their account
+
+## Account Settings
+6. The user can adjust further account settings by clicking on the Settings gear icon and selecting “My Account”.
+   * This allows them to edit this Account details, change their password, hide their profile from the directory (if needed), and delete their account.
 
 <div style="display: flex;">
    <img src="./images/account1.png" style="width: 49%;" alt="Account1">
