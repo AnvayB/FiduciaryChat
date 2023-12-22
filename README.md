@@ -17,14 +17,11 @@ If the website is still live when you read this, feel free to explore it firstha
 | Main Screen | Registration | Additional Features |
 | ---------------- | ---------------- | ---------------- |
 | [Homepage](https://anvayb.github.io/FiduciaryChat/#homepage)      | [Register](https://anvayb.github.io/FiduciaryChat/#register) | [Discussion Room](https://anvayb.github.io/FiduciaryChat/#discussion-room)     |
-| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
-| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
-| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
-| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
-| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
-| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
-| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
-| Row 2, Column 1  | Row 2, Column 2  | Row 2, Column 3  |
+| [Search](https://anvayb.github.io/FiduciaryChat/#search)      | [Profile](https://anvayb.github.io/FiduciaryChat/#profile)       | [User Homepage](https://anvayb.github.io/FiduciaryChat/#new-homepage)   |
+| [Chat Room](https://anvayb.github.io/FiduciaryChat/#chat-room)   | [Account Settings](https://anvayb.github.io/FiduciaryChat/#account-settings)        | [Logout](https://anvayb.github.io/FiduciaryChat/#logout)      |
+| [Login](https://anvayb.github.io/FiduciaryChat/#login)         |    Row 2, Column 2  | Row 2, Column 3  |
+
+
 
 
 ## Homepage
