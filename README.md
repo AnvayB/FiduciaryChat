@@ -2,7 +2,7 @@
 FiduciaryChat is a project I worked on as a freelance developer from May to August 2023. The project aimed to establish a centralized platform for the U.S. financial advisory industry, facilitating their engagement with potential clients and fostering connections among trust management professionals. Unfortunately, the project was discontinued due to resource constraints and shifting priorities. But I still wanted to showcase my work over the summer so I created a comprehensive walkthrough that highlights every aspect of the website and demonstrates the user's journey through its interface.
 
 
-If the website is still live when you read this, feel free to explore it firsthand by clicking this link: **[FiduciaryChat](https://testsite333dev.wpengine.com)**
+<!-- If the website is still live when you read this, feel free to explore it firsthand by clicking this link: **[FiduciaryChat](https://testsite333dev.wpengine.com)** -->
 
 [← Back to my GitHub](https://github.com/AnvayB/FiduciaryChat/)
 
